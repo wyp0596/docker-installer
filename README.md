@@ -8,11 +8,9 @@
 
 ### Ubuntu
 
-[Ubuntu-16.04.2-LTS-amd64](/ubuntu/16.04.2/amd64)
+[Ubuntu](/ubuntu)
 
 ### CentOS
 
-[CentOS-7-amd64](/centos/7/amd64)
-
-### Debian
+[CentOS](/centos)
 
