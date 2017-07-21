@@ -10,15 +10,19 @@
 
 ## offline-install
 
-### CentOS
+### RPM-based
 
-[CentOS](/centos)
+[RPM-based](/RPM-based)
 
-### Ubuntu
+system:
 
-[Ubuntu](/ubuntu)
+* CentOS 7
 
-### Debian
+### Debian-based
 
-[Debian](/debian)
+[Debian-based](/Debian-based)
 
+system:
+
+* Ubuntu 16.04.2
+* Debian 9
