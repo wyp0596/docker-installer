@@ -15,3 +15,4 @@
 ### Tested
 
 - 1 ==> CentOS 7
+- 2 ==> CentOS 7
