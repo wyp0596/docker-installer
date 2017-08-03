@@ -1,8 +1,8 @@
 # docker-machine-installer for Linux
 
-1. copy this folder to the remote server
-2. change into this folder
-3. use the root permission
+## Releases
+
+[Releases](https://github.com/wyp0596/docker-installer/releases)
 
 ## Install
 

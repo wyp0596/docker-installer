@@ -10,6 +10,8 @@
 
 ## offline-install
 
+[Releases](https://github.com/wyp0596/docker-installer/releases)
+
 ### RPM-based
 
 [RPM-based](/RPM-based)
