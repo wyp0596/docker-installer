@@ -12,6 +12,11 @@
 
 `sh uninstall.sh`
 
-### Tested
+## Version
 
-* 1 ==> Ubuntu 16.04.2/Debian 9
+`17.06.0-ce,02c1d87`
+
+## Tested
+
+* Ubuntu 16.04.2
+* Debian 9

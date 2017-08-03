@@ -12,3 +12,9 @@
 
 `sh uninstall.sh`
 
+### Version
+
+`1.15.0, build e12f3b9`
+
+[official](https://github.com/docker/compose/releases)
+

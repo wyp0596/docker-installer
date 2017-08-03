@@ -12,7 +12,10 @@
 
 `sh uninstall.sh`
 
-### Tested
+## Version
 
-- 1 ==> CentOS 7
-- 2 ==> CentOS 7
+`17.06.0-ce,02c1d87`
+
+## Tested
+
+- CentOS 7
