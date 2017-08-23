@@ -1,4 +1,7 @@
-# docker-installer
+docker-installer
+============================
+
+[![](https://img.shields.io/github/issues/wyp0596/docker-installer.svg)](https://github.com/wyp0596/docker-installer/issues)  [![](https://img.shields.io/github/forks/wyp0596/docker-installer.svg)](https://github.com/wyp0596/docker-installer/network) [![](https://img.shields.io/github/stars/wyp0596/docker-installer.svg)](https://github.com/wyp0596/docker-installer/stargazers) [![](https://img.shields.io/github/release/wyp0596/docker-installer.svg)](https://github.com/wyp0596/docker-installer/releases)
 
 > The purpose of this project is to help you install Docker in an offline environment. Generally speaking, Docker only support 64bit Linux operation system. 
 
