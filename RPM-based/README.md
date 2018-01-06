@@ -14,8 +14,8 @@
 
 ## Version
 
-`17.06.0-ce,02c1d87`
+`17.12.0-ce (2017-12-27)`
 
 ## Tested
 
-- CentOS 7
+- CentOS 7, 1708

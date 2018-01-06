@@ -21,7 +21,7 @@ docker-installer
 
 system:
 
-* CentOS 7
+* CentOS 7, 1708
 
 ### Debian-based
 
