@@ -11,6 +11,11 @@ docker-installer
 
 [official guide](https://www.docker.com/community-edition)
 
+```shell
+# official install scripts
+curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
+```
+
 ## offline-install
 
 [Releases](https://github.com/wyp0596/docker-installer/releases)
